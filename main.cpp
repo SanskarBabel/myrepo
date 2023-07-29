@@ -1,5 +1,10 @@
 #include<iostream>
-int main
+
+void quicksort()
+{
+    //
+}
+int main()
 {
     std::cout<<" Hello World";
     std::cout<<" Hello Dot Babtch";
