@@ -1,5 +1,11 @@
 #include<iostream>
-int main
+
+void bubblesort()
+{
+    //
+}
+
+int main()
 {
     std::cout<<" Hello World";
     std::cout<<" Hello Dot Babtch";
